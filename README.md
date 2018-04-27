@@ -15,6 +15,9 @@ Source code includes a strongly typed wrapper project for the combit List & Labe
 
 You can further extend this wrapper to expose the strongly typed methods with signatures matching the combit List & Label .NET component (see also the .NET help at https://docu.combit.net/en) and forwarding the calls via Javonet. To learn more how to perform different types of calls from Java to .NET API using Javonet, go to Javonet Guides for Java developers (https://www.javonet.com/java-devs/guides/).
 
+# Releases
+You can find the ready to used compiled Jar files including all the latest features under the [releases section](https://github.com/Javonet/combit-listlabel23-java/releases).
+
 # How to Open this Project in Eclipse
 In this section you will find step by step guide how to open this project. 
 
