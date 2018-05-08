@@ -1,9 +1,9 @@
 # Introduction
-Strongly-typed wrapper for combit .NET List &amp; Label component combit.ListLabel23.dll. This project allows you to compile the Jar package which replicates the interface of combit List & Label 23 component so it can be used from Java.
+Strongly-typed wrapper for combit .NET List &amp; Label component combit.ListLabel23.dll. This project allows you to compile the Jar package which replicates the interface of combit List & Label 23 .NET component so it can be used from Java.
 
 The usage of .NET UI combit component from Java is possible thanks to the usage of thrd-party Javonet library.
 
-This wrapper is used by sample projects available in [Combit Java Samples Repository](https://github.com/Javonet/combit). 
+This wrapper is used by sample projects available in [combit Java Samples Repository](https://github.com/Javonet/combit). 
 
 # Contents
 Source code includes a strongly typed wrapper project for the combit List & Label .NET component. Strongly-typed wrapper replicates List & Label 23 .NET API for Java. Currently it exposes only the key operations required by sample projects:
