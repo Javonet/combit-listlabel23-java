@@ -38,7 +38,7 @@ git clone https://github.com/Javonet/combit-listlabel23-java.git
 Now you can work to extend this wrapper with additional features.
 
 # Extending Strongly-Typed Wrapper
-The combit.listlabel23 project replicates the List & Label 23 .NET API in Java and routes the calls through Javonet to the .NET component implementation. This wrapper has been implement to expose only the functionality required for the sample applications. If you need any additional features from List & Label component you should extend this wrapper.
+The combit.listlabel23 project replicates the List & Label 23 .NET component API in Java and routes the calls through Javonet to the .NET component implementation. This wrapper has been implement to expose only the functionality required for the sample applications. If you need any additional features from List & Label 23 .NET component you should extend this wrapper.
 
 To learn more how to use Javonet to perform different operations on .NET component go to Javonet guide for Java developers: 
 https://www.javonet.com/java-devs/guides/
